@@ -7,10 +7,13 @@ US Wildfires due to Lightning (2004 - 2015)
 Source:
 https://www.kaggle.com/datasets/aestheteaman01/278k-us-wildfires-due-to-lightning-2004-2015 
 
+
 About this file
+
 
 Context:
 List of 278k Wildfires in the USA occurring between 2004 - 2015 that had lightning as the main cause.
+
 
 Dataset Column Descriptions:
 FIRE_YEAR - Year when the fire happened
@@ -31,5 +34,6 @@ LATITUDE & LONGITUDE where the fire erupted.
 STATE - The US State where the fire began.
 
 FIPS AND FIPS Name - Identifying US Counties and Fips.
+
 
 NOTE: some dates in the file may be duplicated due to multiple fires occuring on the same day
