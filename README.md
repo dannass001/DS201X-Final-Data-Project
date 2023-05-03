@@ -16,6 +16,7 @@ List of 278k Wildfires in the USA occurring between 2004 - 2015 that had lightni
 
 
 Dataset Column Descriptions:
+
 FIRE_YEAR - Year when the fire happened
 
 FIRE_DATE - Date when the fire occured.
@@ -55,6 +56,7 @@ California is one of the places having the most deadliest and destructive wildfi
 This data helps to generate insights on what locations in California are under fire threat, what time do Wildfires usually occur and how frequent and devastating they are.
 
 Dataset Column Descriptions:
+
 AcresBurned - Acres of land affected by wildfires
 
 Active - If the fire is active or contained?
